@@ -23,7 +23,7 @@ Video Link:
 https://youtu.be/YrD6fJPrw54 
 
 |File   |
-https://github.com/firefoxfenix/ARI/APK/ARI.apk
+https://github.com/firefoxfenix/ARI/blob/master/APK/ARI.apk
 
 |Team Name | Short Description
  ARI 		 Inmediate Response App
